@@ -11,5 +11,5 @@ function giaithua($n){
     }
 }
     $n=5;
-    echo"n!= ".giaithua($n);
+    echo"$n!= ".giaithua($n);
 ?>
