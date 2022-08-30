@@ -29,7 +29,7 @@ function giaithua($n){
   </tr>
   <tr>
    <td>n! =</td>
-   <td><input type="text" name="tccs" value="<?=giaithua ( $n )?>" /></td>
+   <td><input type="text" name="gt" value="<?=giaithua ( $n )?>" /></td>
   </tr>
  </table>
 </form>
