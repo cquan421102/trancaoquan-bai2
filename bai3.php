@@ -14,8 +14,6 @@ function giaithua($n){
         return $giai_thua;
     }
 }
-    $n=5;
-    echo"$n!= ".giaithua($n);
 ?>
 <form action="#" method="post">
  <table>
